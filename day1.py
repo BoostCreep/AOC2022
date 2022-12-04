@@ -25,5 +25,5 @@ for food in data:
 
 
 # Answers
-print("Magic Number for Day 1:", elf)
-print("Magic Number for Day 2:", elf+elf2+elf3)
+print("Magic Number for Part 1:", elf)
+print("Magic Number for Part 2:", elf+elf2+elf3)
